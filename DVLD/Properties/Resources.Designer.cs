@@ -63,11 +63,9 @@ namespace DVLD.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap A_black_logo_sized_image__400x400_pixels__representing_people_management__Design_a_simple__modern_icon_with_multiple_person_silhouettes_and_a_subtle_gear_or_settings_element___1_ {
+        internal static System.Drawing.Bitmap people_management {
             get {
-                object obj = ResourceManager.GetObject("A black logo-sized image (400x400 pixels) representing people management. Design " +
-                        "a simple, modern icon with multiple person silhouettes and a subtle gear or sett" +
-                        "ings element. (1)", resourceCulture);
+                object obj = ResourceManager.GetObject("people-management", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

@@ -163,7 +163,7 @@
             // toolStripMenuItem1
             // 
             this.toolStripMenuItem1.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.toolStripMenuItem1.Image = global::DVLD.Properties.Resources.A_black_logo_sized_image__400x400_pixels__representing_people_management__Design_a_simple__modern_icon_with_multiple_person_silhouettes_and_a_subtle_gear_or_settings_element___1_;
+            this.toolStripMenuItem1.Image = global::DVLD.Properties.Resources.people_management;
             this.toolStripMenuItem1.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripMenuItem1.Name = "toolStripMenuItem1";
             this.toolStripMenuItem1.Size = new System.Drawing.Size(222, 38);
@@ -206,7 +206,7 @@
             this.btnAddPerson.Name = "btnAddPerson";
             this.btnAddPerson.Size = new System.Drawing.Size(69, 58);
             this.btnAddPerson.TabIndex = 104;
-            this.btnAddPerson.Values.Image = global::DVLD.Properties.Resources.A_black_logo_sized_image__400x400_pixels__representing_people_management__Design_a_simple__modern_icon_with_multiple_person_silhouettes_and_a_subtle_gear_or_settings_element___1_;
+            this.btnAddPerson.Values.Image = global::DVLD.Properties.Resources.people_management;
             this.btnAddPerson.Values.Text = "";
             this.btnAddPerson.Click += new System.EventHandler(this.btnAddPerson_Click);
             // 

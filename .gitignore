@@ -1,3 +1,43 @@
-.vs/ 
-bin/ 
-obj/ 
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.opendb
+
+# Build output
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Compiled/debug files
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exp
+*.log
+*.tlog
+*.lastbuildstate
+*.cache
+
+# Local config / database backups
+*.mdf
+*.ldf
+*.bak
+*.db

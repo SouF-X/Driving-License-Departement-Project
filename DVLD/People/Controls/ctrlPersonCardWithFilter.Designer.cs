@@ -76,7 +76,7 @@
             this.btnAddNewPerson.Name = "btnAddNewPerson";
             this.btnAddNewPerson.Size = new System.Drawing.Size(51, 49);
             this.btnAddNewPerson.TabIndex = 114;
-            this.btnAddNewPerson.Values.Image = global::DVLD.Properties.Resources.A_black_logo_sized_image__400x400_pixels__representing_people_management__Design_a_simple__modern_icon_with_multiple_person_silhouettes_and_a_subtle_gear_or_settings_element___1_;
+            this.btnAddNewPerson.Values.Image = global::DVLD.Properties.Resources.people_management;
             this.btnAddNewPerson.Values.Text = "";
             this.btnAddNewPerson.Click += new System.EventHandler(this.btnAddNewPerson_Click);
             // 

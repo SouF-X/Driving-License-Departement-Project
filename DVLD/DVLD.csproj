@@ -483,7 +483,7 @@
     <None Include="Resources\application_list1.png" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\A black logo-sized image %28400x400 pixels%29 representing people management. Design a simple, modern icon with multiple person silhouettes and a subtle gear or settings element. %281%29.png" />
+    <None Include="Resources\people-management.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\account.png" />
